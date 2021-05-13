@@ -1,4 +1,5 @@
 # task-based-dataset
 Enterprise Application Integration Task-Based Execution Model Experimental Dataset
 
-Dataset is compressed in ZIP format split into ten files of 20MB each. 
+<br>
+<a href="https://zenodo.org/badge/latestdoi/202164711"><img src="https://zenodo.org/badge/202164711.svg" alt="DOI"></a>
